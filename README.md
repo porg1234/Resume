@@ -1,2 +1,2 @@
 # aradia
-Simple professional 
+Simple professional website
