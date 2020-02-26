@@ -1,2 +1,2 @@
-<h>Aradia </h>
-<p>Simple Resume site
+# aradia
+Simple professional 
