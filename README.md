@@ -1,2 +1,2 @@
 # aradia
-Simple professional 
+<b>Simple professional </b>
