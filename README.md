@@ -13,7 +13,7 @@ body {
   
   /* Header background color and font color*/
 .header { 
-
+  padding: 80 px;
   text-align: center;
   background: #87CEDA;
   color: white; 
@@ -34,7 +34,7 @@ body {
   display: block; 
   color: white; 
   text-align: center;
-  padding: 14px 20px;
+  /*padding: 14px 20px;*/
   text-decoration: none;
 }
 
@@ -49,6 +49,8 @@ float right;
    color: black;
 
 }
+
+
 
   </style>
   </head>
