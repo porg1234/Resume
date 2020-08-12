@@ -7,7 +7,7 @@
 
   </head>
   <body>
-  <h1> <center> Simple professional </center> </h1>
+  <h1 style="text-align:center;"> Simple professional </h1>
   <h2> Trying out some HTML tricks </h2>
   
   <p> 
