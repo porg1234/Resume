@@ -55,13 +55,13 @@ float right;
 
 }
 /*Side column*/
-/*.row {
+/*.side {
 display: flax;
 flex-wrap:wrap;
 }*/
 
-.contact {
-flex: 30%
+.comment{
+/*flex: 30%*/
 background-color: f1f1f1;
 padding 20px;
 }
@@ -74,7 +74,7 @@ padding 20px;
 }
 
 /*image*/
-fakeimg {
+.photo {
    background-color: #ddd;
    width:100%
    padding 16px;
@@ -96,20 +96,33 @@ background: #87CEDA;
   
 <div class="header">
 <h1> Simple professional </h1>
-<p> Into the unknown
-</p>
+<p> Into the unknown</p>
 </div>
 
 <div class="navbar">
   <a href="#">Resume</a>
   <a href="#">Education</a>
   <a href="#">Projects</a>
-  <a href="#" class="right">Linked in</a>
+  <a href="#" class="right">Linked-in</a>
   </div>
 
-<div class="row">
-  <div class="side">...</div>
-  <div class="main">...</div>
+/*<div class="side">*/
+  <div class="main">
+   <h2> About Me<h2>
+    <br>
+    <p> Stuff about me and why I can help people</p>
+    <dis class="photo" style="height:200px;">Image
+     </div>
+    <h5> What is in the photo</h5>
+    <h3> another side of me</h3>
+    <p>jkebkjfbejksb </p>
+    <div class="photo" style ="height:100px;">Image</div>
+ </div>
+ 
+ /*Make resume area, education and contact area*/
+  <div class="comment">...</div>
+  
+  
 </div>
 
 <div class="footer">
