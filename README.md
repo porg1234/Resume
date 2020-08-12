@@ -9,6 +9,19 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0 ;
 }
+
+  
+  /* Header background color and font color*/
+.header { 
+  padding: 80 px;
+  text-align: center;
+  background: #87CEDA;
+  color: white; 
+  }
+  /* font size for header */
+.header h1 {
+  font-size: 40px;
+  }
 /*Style the top Navigation bar*/
   .navbar{
   overflow: hidden;
@@ -29,20 +42,7 @@ body {
 .navbar a.right {
 float right;
 }
-  
-  /* Header background color and font color*/
-.header { 
-  padding: 80 px;
-  text-align: center;
-  background: #87CEDA;
-  color: white; 
-  }
-  /* font size for header */
-.header h1 {
-  font-size: 40px;
-  }
-  
-  
+
   </style>
   </head>
 <body>
