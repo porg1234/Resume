@@ -1,3 +1,4 @@
+<!Doctype htm>
 
 <html lang="en">
 <head>
