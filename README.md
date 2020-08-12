@@ -81,6 +81,13 @@ fakeimg {
    
 }
 
+/*footer*/
+.footer{
+padding: 16px;
+text-align: center; 
+background: #87CEDA;
+}
+
   </style>
   </head>
 
@@ -104,6 +111,10 @@ fakeimg {
   <div class="side">...</div>
   <div class="main">...</div>
 </div>
+
+<div class="footer">
+ <h2>Thanks for visiting! </h2>
+  </dev>
   
   </body>
 
