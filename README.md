@@ -43,10 +43,17 @@ body {
 float right;
 }
 
+/* Change color on hover/mouse-over */
+.navbar a:hover {
+   backgound-color: #ddd;
+   color: black;
+
+}
+
   </style>
   </head>
 <body>
-/* Navigation bar (links) */  
+
 <div class="navbar">
   <a href="#">Resume</a>
   <a href="#">Education</a>
