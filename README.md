@@ -54,8 +54,24 @@ float right;
    color: black;
 
 }
+/*Side column*/
+.row {
+display: flax;
+flex-wrap:wrap;
+}
 
+/*.side {
+flex: 30%
+background-color: white;
+padding 20px;
+}*/
 
+/*Main column*/ 
+.main {
+   /*flex: 70%;*/
+   background-color: white
+   padding 16px;
+}
 
   </style>
   </head>
