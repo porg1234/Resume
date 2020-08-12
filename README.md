@@ -6,7 +6,7 @@
     <meta name = "viewport" content = "width=device-width, initial-scale=1">
 
   </head>
-  <body>
+  <body style = "background-color:powderblue;">
   <h1 style="text-align:center;"> Simple professional </h1>
   <h2> Trying out some HTML tricks </h2>
   
