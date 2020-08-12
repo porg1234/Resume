@@ -52,8 +52,7 @@ float right;
 
   </style>
   </head>
-  
-/* Text */  
+
 <body>
 
   
@@ -69,6 +68,11 @@ float right;
   <a href="#">Projects</a>
   <a href="#" class="right">Link</a>
   </div>
+
+<div class="row">
+  <div class="side">...</div>
+  <div class="main">...</div>
+</div>
   
   </body>
 
