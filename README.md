@@ -5,6 +5,10 @@
 <meta charset = "utf-8">
 <meta name = "viewport" content = "width=device-width, initial-scale=1">
 <style>
+*{
+ box-sizing: border-box; 
+}
+  
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0 ;
