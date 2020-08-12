@@ -68,7 +68,7 @@ float right;
   <a href="#">Resume</a>
   <a href="#">Education</a>
   <a href="#">Projects</a>
-  <a href="#" class="right">Link</a>
+  <a href="#" class="right">Linked in</a>
   </div>
 
 <div class="row">
