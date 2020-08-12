@@ -9,7 +9,26 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0 ;
 }
+/*Style the top Navigation bar*/
+  .navbar{
+  overflow: hidden;
+  background-color: #333;
+  }
 
+/* Style the navigation bar links*/
+.navbar a {
+  float: left;
+  display: block; 
+  color: white; 
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+/* Right-aligned link */
+.navbar a.right {
+float right;
+}
   
   /* Header background color and font color*/
 .header { 
@@ -27,11 +46,11 @@ body {
   </style>
   </head>
 <body>
-/* Nativation bar (links) */  
+/* Navigation bar (links) */  
 <div class="navbar">
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#">Link</a>
+  <a href="#">Resume</a>
+  <a href="#">Education</a>
+  <a href="#">Projects</a>
   <a href="#" class="right">Link</a>
   </div>
   
