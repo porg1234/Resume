@@ -55,22 +55,30 @@ float right;
 
 }
 /*Side column*/
-.row {
+/*.row {
 display: flax;
 flex-wrap:wrap;
-}
-
-/*.side {
-flex: 30%
-background-color: white;
-padding 20px;
 }*/
+
+.contact {
+flex: 30%
+background-color: f1f1f1;
+padding 20px;
+}
 
 /*Main column*/ 
 .main {
    /*flex: 70%;*/
    background-color: white
    padding 16px;
+}
+
+/*image*/
+fakeimg {
+   background-color: #ddd;
+   width:100%
+   padding 16px;
+   
 }
 
   </style>
