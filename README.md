@@ -9,7 +9,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0 ;
 }
-
+/*Colors, fonts and backgrounds*/
   
   /* Header background color and font color*/
 .header { 
@@ -52,7 +52,16 @@ float right;
 
   </style>
   </head>
+  
+/* Text */  
 <body>
+
+  
+<div class="header">
+<h1> Simple professional </h1>
+<p> Into the unknown
+</p>
+</div>
 
 <div class="navbar">
   <a href="#">Resume</a>
@@ -61,12 +70,7 @@ float right;
   <a href="#" class="right">Link</a>
   </div>
   
-<div class="header">
-<h1> Simple professional </h1>
-<p> Into the unknown
-</p>
-</div>
-</body>
+  </body>
 
 </html>
 
