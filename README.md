@@ -25,7 +25,7 @@ body {
   text-decoration: none;
 }
 
-/* Right-aligned link */
+/*Right-aligned link*/
 .navbar a.right {
 float right;
 }
