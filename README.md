@@ -100,15 +100,17 @@ background: #87CEDA;
 
   
 <div class="header">
-<h1> Simple professional </h1>
-<p> Into the unknown</p>
-</div>
+  <h1> Simple professional </h1>
+  <p> Into the unknown</p>
+
 
 <div class="navbar">
   <a href="#">Resume</a>
   <a href="#">Education</a>
   <a href="#">Projects</a>
   <a href="#" class="right">Linked-in</a>
+  </div>
+  
   </div>
   
 <div class="row">
