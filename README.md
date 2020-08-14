@@ -112,8 +112,7 @@ background: #87CEDA;
   <a href="#" class="right">Linked-in</a>
   </div>
   
-<div> class="row">
-  /*<div class="side">*/
+<div class="row">
     <div class="main">
     <h2> About Me<h2>
     <br>
