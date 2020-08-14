@@ -117,7 +117,7 @@ background: #87CEDA;
     <h2> About Me<h2>
     <br>
     <p> Stuff about me and why I can help people</p>
-    <dis class="photo" style="height:200px;">Image
+     <div class="photo" style="height:200px;">Image</div>
     <h5> What is in the photo</h5>
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
