@@ -18,7 +18,7 @@ body {
   
   /* Header background color and font color*/
 .header { 
-  padding: 80 px;
+  padding: 100 px;
   text-align: center;
   background: #87CEDA;
   color: white; 
