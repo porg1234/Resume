@@ -122,7 +122,7 @@ background: #87CEDA;
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
     <div class="photo" style ="height:100px;">Image</div>
- </div>
+
  
 
  <br>
