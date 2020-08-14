@@ -67,14 +67,14 @@ flex-wrap:wrap;
 }*/
 
 .comment{
-/*flex: 30%*/
-background-color: f1f1f1;
-padding 20px;
+  width: 100%
+  background-color: f1f1f1;
+  padding 20px;
 }
 
 /*Main column*/ 
 .main {
-   /*flex: 70%;*/
+   width: 100%
    background-color: white;
    padding 16px;
 }
