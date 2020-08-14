@@ -119,11 +119,11 @@ background: #87CEDA;
     <div class="photo" style ="height:100px;">Image</div>
  </div>
  
- /*Make resume area, education and contact area*/
+
+ 
   <div class="comment">...</div>
   
-  
-</div>
+
 
 <div class="footer">
  <h2>Thanks for visiting! </h2>
