@@ -54,6 +54,12 @@ float right;
    color: black;
 
 }
+
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+}
+
 /*Side column*/
 /*.side {
 display: flax;
@@ -105,14 +111,14 @@ background: #87CEDA;
   <a href="#">Projects</a>
   <a href="#" class="right">Linked-in</a>
   </div>
-
-/*<div class="side">*/
-  <div class="main">
-   <h2> About Me<h2>
+  
+<div> class="row">
+  /*<div class="side">*/
+    <div class="main">
+    <h2> About Me<h2>
     <br>
     <p> Stuff about me and why I can help people</p>
     <dis class="photo" style="height:200px;">Image
-     </div>
     <h5> What is in the photo</h5>
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
@@ -120,13 +126,15 @@ background: #87CEDA;
  </div>
  
 
- 
+ <br>
   <div class="comment">...</div>
   
 
 
 <div class="footer">
  <h2>Thanks for visiting! </h2>
+  </dev>
+  
   </dev>
   
   </body>
