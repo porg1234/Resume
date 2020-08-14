@@ -18,7 +18,7 @@ body {
   
   /* Header background color and font color*/
 .header { 
-  padding: 100 px;
+  padding: 80 px;
   text-align: center;
   background: #87CEDA;
   color: white; 
@@ -45,14 +45,13 @@ body {
 
 /*Right-aligned link*/
 .navbar a.right {
-float right;
+float: right;
 }
 
 /* Change color on hover/mouse-over */
 .navbar a:hover {
    backgound-color: #ddd;
    color: black;
-
 }
 
 .row {  
@@ -69,27 +68,27 @@ flex-wrap:wrap;
 .comment{
   width: 100%
   background-color: f1f1f1;
-  padding 20px;
+  padding: 20px;
 }
 
 /*Main column*/ 
 .main {
    width: 100%
    background-color: white;
-   padding 16px;
+   padding: 20px;
 }
 
 /*image*/
 .photo {
    background-color: #ddd;
    width: 100%;
-   padding 16px;
+   padding: 20px;
    
 }
 
 /*footer*/
 .footer{
-padding: 16px;
+padding: 20px;
 text-align: center; 
 background: #87CEDA;
 }
@@ -122,7 +121,7 @@ background: #87CEDA;
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
     <div class="photo" style ="height:100px;">Image</div>
-
+     </dev>
  
 
  <br>
