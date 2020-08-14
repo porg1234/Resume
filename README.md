@@ -75,14 +75,14 @@ padding 20px;
 /*Main column*/ 
 .main {
    /*flex: 70%;*/
-   background-color: white
+   background-color: white;
    padding 16px;
 }
 
 /*image*/
 .photo {
    background-color: #ddd;
-   width:100%
+   width: 100%;
    padding 16px;
    
 }
