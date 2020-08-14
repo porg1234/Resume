@@ -102,7 +102,7 @@ background: #87CEDA;
 <div class="header">
   <h1> Simple professional </h1>
   <p> Into the unknown</p>
-
+</div>
 
 <div class="navbar">
   <a href="#">Resume</a>
@@ -123,7 +123,7 @@ background: #87CEDA;
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
     <div class="photo" style ="height:100px;">Image</div>
-     </dev>
+     
  
 
  <br>
@@ -133,9 +133,9 @@ background: #87CEDA;
 
 <div class="footer">
  <h2>Thanks for visiting! </h2>
-  </dev>
+  </div>
   
-  </dev>
+
   
   </body>
 
