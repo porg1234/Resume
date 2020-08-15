@@ -32,6 +32,7 @@ body {
 
 /*Style the top Navigation bar*/
   .navbar{
+  clear: both;
   overflow: hidden;
   background-color: #333;
   }
@@ -66,6 +67,7 @@ float: right;
 
 /*Main column*/ 
 .main {
+   width: 
    background-color: white;
    padding: 20px;
 }
@@ -102,15 +104,15 @@ background: #87CEDA;
   <p> Into the unknown</p>
 </div>
 
+   <div class="navbar">
+    <a href="#">Resume</a>
+    <a href="#">Education</a>
+    <a href="#">Projects</a>
+    <a href="#" class="right">LinkedIn</a>
+   </div>
 
-<div class="navbar">
-  <a href="#">Resume</a>
-  <a href="#">Education</a>
-  <a href="#">Projects</a>
-  <a href="#" class="right">LinkedIn</a>
-  </div>
  
-    <div class="main">
+ <div class="main">
     <h2> About Me<h2>
     <br>
     <p> Stuff about me and why I can help people </p>
