@@ -50,7 +50,7 @@ float: right;
 
 /* Change color on hover/mouse-over */
 .navbar a:hover {
-   backgound-color: #ddd;
+   backgound-color: #87CEDA;
    color: black;
 }
 
