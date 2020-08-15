@@ -104,7 +104,7 @@ background: #87CEDA;
 <div class="header">
       <br> <br><br>
   <h1> Simple professional </h1>
-  <p> Into the unknown</p>
+  <h5> Into the unknown</h5>
       <br> <br> <br>
 </div>
 
