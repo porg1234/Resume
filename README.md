@@ -111,15 +111,16 @@ background: #87CEDA;
       
   <h1> Simple professional </h1>
   <h5> Into the unknown</h5>
+     </div>
      
-
+     
    <div class="navbar">
     <a href="#">Resume</a>
     <a href="#">Education</a>
     <a href="#">Projects</a>
     <a href="#" class="right">LinkedIn</a>
    </div>
-</div>
+
  
  <div class="main">
     <h2> About Me<h2>
