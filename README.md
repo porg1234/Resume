@@ -28,7 +28,7 @@ body {
   background: #87CEDA;
   color: white; 
   margin: 0;
- 
+ overflow: hidden;
  
   }
 
