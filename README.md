@@ -83,7 +83,7 @@ flex-wrap:wrap;
    background-color: #ddd;
    width: 100%;
    padding: 20px;
-   
+    text-align: center;   
 }
 
 /*footer*/
@@ -122,7 +122,7 @@ background: #87CEDA;
     <h5> What is in the photo</h5>
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
-    <div class="photo" style ="height:100px;">Image</div>
+    <div class="photo" style="height:200px;">Image</div>
      
  
 
