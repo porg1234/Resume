@@ -28,6 +28,7 @@ body {
   /* font size for header */
 .header h1 {
   font-size: 40px;
+  margin: 0;
   }
 
 /*Style the top Navigation bar*/
