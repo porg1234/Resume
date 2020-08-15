@@ -69,7 +69,7 @@ float: right;
 
 /*Main column*/ 
 .main {
-   width: 
+
    background-color: white;
    padding: 20px;
 }
@@ -102,8 +102,10 @@ background: #87CEDA;
 
   
 <div class="header">
+      <br> <br><br>
   <h1> Simple professional </h1>
   <p> Into the unknown</p>
+      <br> <br> <br>
 </div>
 
    <div class="navbar">
