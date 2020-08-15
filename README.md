@@ -24,6 +24,7 @@ body {
   background: #87CEDA;
   color: white; 
   margin: 0;
+  height: 300px
   }
 
   /* font size for header */
