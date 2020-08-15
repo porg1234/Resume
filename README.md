@@ -111,7 +111,7 @@ background: #87CEDA;
       
   <h1> Simple professional </h1>
   <h5> Into the unknown</h5>
-     </div>
+     
      
      
    <div class="navbar">
@@ -140,7 +140,7 @@ background: #87CEDA;
 
 </div>
   
-
+</div>
 
 <div class="footer">
  <h2>Thanks for visiting! </h2>
