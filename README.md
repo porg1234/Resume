@@ -3,10 +3,11 @@
 <html lang="en">
 <head>
 <title> Hello world </title>
-<meta charset = "UTF-8">
-<meta name = "viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<meta name="viewport" 
+      content="width=device-width, initial-scale=1">
 <style>
-*{
+* {
  box-sizing: border-box; 
 }
   
@@ -84,6 +85,13 @@ text-align: center;
 background: #87CEDA;
 }
 
+@media screen and (max-width: 400px) { 
+  .navbar a{
+  float: none;
+  width 100%;
+  }
+  }
+
   </style>
   </head>
 <body>
@@ -101,13 +109,11 @@ background: #87CEDA;
   <a href="#">Projects</a>
   <a href="#" class="right">LinkedIn</a>
   </div>
-  
-
-
+ 
     <div class="main">
     <h2> About Me<h2>
     <br>
-    <p> Stuff about me and why I can help people</p>
+    <p> Stuff about me and why I can help people </p>
      <div class="photo" style="height:200px;">Image</div>
     <h5> What is in the photo</h5>
     <h3> another side of me</h3>
