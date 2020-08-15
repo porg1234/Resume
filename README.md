@@ -102,10 +102,10 @@ background: #87CEDA;
 
   
 <div class="header">
-      <br> <br><br>
+      
   <h1> Simple professional </h1>
   <h5> Into the unknown</h5>
-      <br> <br> <br>
+      
 </div>
 
    <div class="navbar">
