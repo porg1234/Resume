@@ -25,6 +25,7 @@ body {
   color: white; 
   margin: 0;
   height: 300px
+  vertical-align: middle 
   }
 
   /* font size for header */
