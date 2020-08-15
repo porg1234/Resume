@@ -4,7 +4,7 @@
 <head>
 <title> Hello world </title>
 <meta charset = "utf-8">
-<meta name = "viewport" content = "width=device-width, initial-scale=1">
+<meta name = "viewport" content="width=device-width, initial-scale=1">
 <style>
 *{
  box-sizing: border-box; 
@@ -18,7 +18,7 @@ body {
   
   /* Header background color and font color*/
 .header { 
-  padding: 10 px;
+  padding: 1 px;
   text-align: center;
   background: #87CEDA;
   color: white; 
@@ -96,7 +96,6 @@ background: #87CEDA;
   </style>
   </head>
 
-<body>
 
   
 <div class="header">
@@ -108,7 +107,7 @@ background: #87CEDA;
   <a href="#">Resume</a>
   <a href="#">Education</a>
   <a href="#">Projects</a>
-  <a href="#" class="right">Linked-in</a>
+  <a href="#" class="right">LinkedIn</a>
   </div>
   
   </div>
@@ -135,10 +134,5 @@ background: #87CEDA;
  <h2>Thanks for visiting! </h2>
   </div>
   
-
-  
-  </body>
-
-</html>
 
 
