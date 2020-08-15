@@ -19,7 +19,11 @@ body {
   
   /* Header background color and font color*/
 .header { 
-  padding: 80 px;
+  position: absolute;
+  left: 0;
+  right:0;
+  width:100%;
+  height: 100%;
   text-align: center;
   background: #87CEDA;
   color: white; 
@@ -104,11 +108,10 @@ background: #87CEDA;
 
   
 <div class="header">
-      <br><br><br>
+      
   <h1> Simple professional </h1>
   <h5> Into the unknown</h5>
-      <br><br><br>
-</div>
+     
 
    <div class="navbar">
     <a href="#">Resume</a>
@@ -116,7 +119,7 @@ background: #87CEDA;
     <a href="#">Projects</a>
     <a href="#" class="right">LinkedIn</a>
    </div>
-
+</div>
  
  <div class="main">
     <h2> About Me<h2>
