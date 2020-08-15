@@ -23,6 +23,7 @@ body {
   text-align: center;
   background: #87CEDA;
   color: white; 
+  margin: 0;
   }
 
   /* font size for header */
