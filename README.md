@@ -28,7 +28,7 @@ body {
   background: #87CEDA;
   color: white; 
   margin: 0;
- overflow: hidden;
+
  
   }
 
@@ -108,11 +108,11 @@ background: #87CEDA;
 
   
 <div class="header">
-      
+      <br><br> <br>
   <h1> Simple professional </h1>
   <h5> Into the unknown</h5>
-     
-     
+      <br><br><br>
+     </div>     
      
    <div class="navbar">
     <a href="#">Resume</a>
@@ -140,7 +140,7 @@ background: #87CEDA;
 
 </div>
   
-</div>
+
 
 <div class="footer">
  <h2>Thanks for visiting! </h2>
