@@ -42,7 +42,7 @@ body {
   background-color: #333;
   width: 100%;
   position: fixed;
- 
+ top: 0;
   }
 
 /* Style the navigation bar links*/
