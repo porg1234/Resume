@@ -121,9 +121,15 @@ float:none;
 
  
  <div class="main">
+     <h2> Education<h2>
+    <br>
+    <p> The joys of college</p>
+           </div>
+ <div class="main">          
     <h2> About Me<h2>
     <br>
     <p> Stuff about me and why I can help people </p>
+          </div>    
      <div class="photo" style="height:200px;">Image</div>
     <h5> What is in the photo</h5>
     <h3> another side of me</h3>
