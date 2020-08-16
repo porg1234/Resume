@@ -41,7 +41,8 @@ body {
   overflow: hidden;
   background-color: #333;
   width: 100%;
-  position: fixed;
+  position: -webkit-sticky;
+  position: sticky;
  top: 0;
   }
 
@@ -109,13 +110,7 @@ float:none;
   </head>
 <body>
 
- <div class="navbar">
-    <a href="#">Resume</a>
-    <a href="#">Education</a>
-    <a href="#">Projects</a>
-    <a href="#" class="right">LinkedIn</a>
-   </div>
-   
+
    
 <div class="header">
       <br><br> <br>
@@ -124,7 +119,13 @@ float:none;
       <br><br><br>
      </div>     
      
-  
+ <div class="navbar">
+    <a href="#">Resume</a>
+    <a href="#">Education</a>
+    <a href="#">Projects</a>
+    <a href="#" class="right">LinkedIn</a>
+   </div>
+    
 
  
  <div class="main">
