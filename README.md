@@ -129,9 +129,10 @@ background: #87CEDA;
     <p>jkebkjfbejksb </p>
     <div class="photo" style="height:200px;">Image</div>
      
- </div>
+
 
  <br>
+ 
   <div class="comment">
   <h3>deserunt mollit anim id est laborum </h3>
 
