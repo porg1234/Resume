@@ -90,6 +90,7 @@ float: right;
 padding: 20px;
 text-align: center; 
 background: #87CEDA;
+float:none;
 }
 
 @media screen and (max-width: 400px) { 
@@ -128,8 +129,7 @@ background: #87CEDA;
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
     <div class="photo" style="height:200px;">Image</div>
-          </div>
-
+     
 
  <br>
  
