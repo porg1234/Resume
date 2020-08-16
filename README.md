@@ -37,10 +37,10 @@ body {
 
 /*Style the top Navigation bar*/
   .navbar{
-  clear: both;
   overflow: hidden;
   background-color: #333;
-  position: fixed; 
+  width: 100%;
+ 
   }
 
 /* Style the navigation bar links*/
@@ -62,6 +62,12 @@ float: right;
 .navbar a:hover {
    background-color: #87CEDA;
    color: black;
+}
+
+.stick {
+position: fixed;
+top: 0;
+width: 100%;
 }
 
 
@@ -151,5 +157,18 @@ float:none;
  <h2>Thanks for visiting! </h2>
   </div>
  
+ <script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= stick) {
+    navbar.classList.add("stick")
+  } else {
+    navbar.classList.remove("stick");
+  }
+}
 </body>
 </html>
