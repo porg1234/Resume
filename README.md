@@ -40,6 +40,7 @@ body {
   clear: both;
   overflow: hidden;
   background-color: #333;
+  position: fixed; 
   }
 
 /* Style the navigation bar links*/
