@@ -41,6 +41,7 @@ body {
   overflow: hidden;
   background-color: #333;
   width: 100%;
+  position: fixed;
  
   }
 
@@ -65,11 +66,7 @@ float: right;
    color: black;
 }
 
-.stick {
-position: fixed;
-top: 0;
-width: 100%;
-}
+
 
 
 
@@ -112,7 +109,14 @@ float:none;
   </head>
 <body>
 
-  
+ <div class="navbar">
+    <a href="#">Resume</a>
+    <a href="#">Education</a>
+    <a href="#">Projects</a>
+    <a href="#" class="right">LinkedIn</a>
+   </div>
+   
+   
 <div class="header">
       <br><br> <br>
   <h1> Simple professional </h1>
@@ -120,12 +124,7 @@ float:none;
       <br><br><br>
      </div>     
      
-   <div class="navbar">
-    <a href="#">Resume</a>
-    <a href="#">Education</a>
-    <a href="#">Projects</a>
-    <a href="#" class="right">LinkedIn</a>
-   </div>
+  
 
  
  <div class="main">
@@ -158,19 +157,6 @@ float:none;
  <h2>Thanks for visiting! </h2>
   </div>
  
- <script>
-window.onscroll = function() {myFunction()};
 
-var navbar = document.getElementById("navbar");
-var stick = navbar.offsetTop;
-
-function myFunction() {
-  if (window.pageYOffset >= stick) {
-    navbar.classList.add("stick")
-  } else {
-    navbar.classList.remove("stick");
-  }
-}
-</script>
 </body>
 </html>
