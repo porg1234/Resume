@@ -171,5 +171,6 @@ function myFunction() {
     navbar.classList.remove("stick");
   }
 }
+</script>
 </body>
 </html>
