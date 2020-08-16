@@ -25,6 +25,7 @@ body {
   background: #87CEDA;
   color: white; 
   margin: 0;
+  top: 0;
 
  
   }
@@ -161,7 +162,7 @@ float:none;
 window.onscroll = function() {myFunction()};
 
 var navbar = document.getElementById("navbar");
-var sticky = navbar.offsetTop;
+var stick = navbar.offsetTop;
 
 function myFunction() {
   if (window.pageYOffset >= stick) {
