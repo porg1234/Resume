@@ -19,31 +19,24 @@ body {
   
   /* Header background color and font color*/
 .header { 
- width: 100%;
-  height: 100%;
+  padding: 80px;
   text-align: center;
   background: #87CEDA;
   color: white; 
-  margin: 0;
- 
-
- 
   }
 
   /* font size for header */
 .header h1 {
   font-size: 40px;
-  margin: 0;
   }
 
 /*Style the top Navigation bar*/
   .navbar{
   overflow: hidden;
   background-color: #333;
-  width: 100%;
   position: -webkit-sticky;
   position: sticky;
- top: 0;
+  top: 0;
   }
 
 /* Style the navigation bar links*/
@@ -68,19 +61,27 @@ float: right;
 }
 
 
+.row {
+ display: -ms-flexbox;
+ display: flex;
+ -ms-flex-wrap: wrap;
+ flex-wrap: wrap;
+} 
 
 
-
-.comment{
-  background-color: #ddd;
-  padding: 20px;
+.side{
+ -ms- flex: 30%;
+ flex: 30%;
+ background-color: #f1f1f1;
+ padding: 20px;
 }
 
 /*Main column*/ 
 .main {
-
-   background-color: white;
-   padding: 20px;
+ -ms-flex:70%;
+ flex:70%;
+ background-color: white;
+ padding: 20px
 }
 
 /*image*/
@@ -96,7 +97,12 @@ float: right;
 padding: 20px;
 text-align: center; 
 background: #87CEDA;
-float:none;
+}
+
+@media screen and (max-width: 700px) {
+.row{
+  Flex-direction: column;
+  }
 }
 
 @media screen and (max-width: 400px) { 
@@ -104,18 +110,16 @@ float:none;
   float: none;
   width 100%;
   }
-  }
+ }
 
   </style>
   </head>
 <body>
    
 <div class="header">
-      <br><br> <br>
   <h1> Simple professional </h1>
-  <h5> Into the unknown</h5>
-      <br><br><br>
-     </div>     
+  <p> Into the unknown</p>
+</div>     
      
  <div class="navbar">
     <a href="#">Resume</a>
@@ -126,28 +130,25 @@ float:none;
     
 
  
- <div class="main">
-    <h2> Education<h2>
+ <div class="row">
+      <div class="side">
+            <h2> About Me</h2>
+            <div class="photo" style="height:200px;">Image</div> 
+            <p> image description </p>
+      </div>
+      <div class="main">
+            <h2> Education<h2>
+                  <h3> UMASS</h3>
+                 <div class="photo" style="height:200px;">Image</div>
        <br>
     <p> The joys of college</p>         
-    <h2> About Me<h2>
-    <br>
-    <p> Stuff about me and why I can help people </p>
-         <div class="photo" style="height:200px;">Image</div>
-    <h5> What is in the photo</h5>
+  <div class="photo" style="height:200px;">Image</div>    
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
-          <div class="photo" style="height:200px;">Image</div> 
           <p> ... </p>
           </div>
+  </div>
 
-
-
- 
-  <div class="comment">
-  <h3>deserunt mollit anim id est laborum </h3>
-</div>
-  
 
 
 <div class="footer">
