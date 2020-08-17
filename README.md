@@ -109,8 +109,6 @@ float:none;
   </style>
   </head>
 <body>
-
-
    
 <div class="header">
       <br><br> <br>
@@ -131,10 +129,7 @@ float:none;
  <div class="main">
     <h2> Education<h2>
        <br>
-    <p> The joys of college</p>
-          </div>
-          
- <div class="main">          
+    <p> The joys of college</p>         
     <h2> About Me<h2>
     <br>
     <p> Stuff about me and why I can help people </p>
@@ -143,8 +138,9 @@ float:none;
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
           <div class="photo" style="height:200px;">Image</div> 
-     <br>
+          <p> ... </p>
           </div>
+
 
 
  
