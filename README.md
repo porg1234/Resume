@@ -131,7 +131,7 @@ float:none;
  <div class="main">
      <h2> Education<h2>
     <br>
-           <p> The joys of college</p></div>
+           <p> The joys of college</p>
          
  <div class="main">          
     <h2> About Me<h2>
@@ -141,14 +141,13 @@ float:none;
     <h5> What is in the photo</h5>
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
-          <div class="photo" style="height:200px;">Image</div> </div>
+          <div class="photo" style="height:200px;">Image</div> 
      
 
  <br>
  
   <div class="comment">
   <h3>deserunt mollit anim id est laborum </h3>
-
 </div>
   
 
