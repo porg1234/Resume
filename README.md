@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="en">
 <head>
 <title> Hello world </title>
@@ -102,7 +100,7 @@ background: #87CEDA;
 
 @media screen and (max-width: 700px) {
 .row{
-  Flex-direction: column;
+  flex-direction: column;
   }
 }
 
@@ -130,13 +128,13 @@ background: #87CEDA;
    </div>
     
 
- 
- <div class="row">
-      <div class="side">
+<div class="row">
+   <div class="side">
             <h2> About Me</h2>
             <div class="photo" style="height:200px;">Image</div> 
             <p> image description </p>
       </div>
+      
       <div class="main">
             <h2> Education<h2>
                   <h3> UMASS</h3>
@@ -147,15 +145,14 @@ background: #87CEDA;
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
           <p> ... </p>
-          </div>
-  </div>
+   </div>
+</div>
 
 
 
 <div class="footer">
  <h2>Thanks for visiting! </h2>
   </div>
- 
 
 </body>
 </html>
