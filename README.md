@@ -147,7 +147,7 @@ background: #87CEDA;
    </div>
 </div>
 
-
+</div>
 
 <div class="footer">
  <h2>Thanks for visiting! </h2>
