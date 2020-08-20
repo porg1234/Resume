@@ -152,6 +152,7 @@ background: #87CEDA;
 <div class="footer">
  <h2>Thanks for visiting! </h2>
   </div>
+</div>
 
 </body>
 </html>
