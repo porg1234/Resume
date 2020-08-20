@@ -145,13 +145,11 @@ background: #87CEDA;
     <p>jkebkjfbejksb </p>
           <p> ... </p>
    </div>
-</div>
+    </div>
 
-</div>
 
 <div class="footer">
  <h2>Thanks for visiting! </h2>
-  </div>
 </div>
 
 </body>
