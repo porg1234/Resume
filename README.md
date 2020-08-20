@@ -151,5 +151,3 @@ background: #87CEDA;
  <h2>Thanks for visiting! </h2>
 </div>
 
-</body>
-</html>
