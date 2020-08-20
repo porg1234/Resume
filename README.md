@@ -92,7 +92,7 @@ float: right;
 
 /*footer*/
 .footer{
-width: 100%;
+
 padding: 20px;
 text-align: center; 
 background: #87CEDA;
