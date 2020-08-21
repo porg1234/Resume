@@ -143,8 +143,7 @@ background: #87CEDA;
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
           <p> ... </p>
-                  </div>
-                  </div>
+      
 
 <div class="footer">
  <h2>Thanks for visiting! </h2>
