@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-<title> Hello world </title>
+<title> Maser Resume </title>
 <meta charset="UTF-8">
 <meta name="viewport" 
       content="width=device-width, initial-scale=1">
@@ -94,7 +94,7 @@ float: right;
 
 /*footer*/
 .footer{
-padding: 20 px;
+padding: 60 px;
 text-align: center; 
 background: #87CEDA;
 }
@@ -145,7 +145,7 @@ background: #87CEDA;
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
           <p> ... </p>
-      
+                  </div>
 
 <div class="footer">
  <h2>Thanks for visiting! </h2>
