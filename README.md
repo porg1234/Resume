@@ -72,7 +72,8 @@ float: right;
  flex: 30%;
  background-color: #f1f1f1;
  padding: 20px;
-}
+ overflow:hidden;
+  }
 
 /*Main column*/ 
 .main {
@@ -80,6 +81,7 @@ float: right;
  flex:70%;
  background-color: white;
  padding: 20px
+ overflow:hidden;
 }
 
 /*image*/
