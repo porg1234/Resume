@@ -17,7 +17,7 @@ body {
   
   /* Header background color and font color*/
 .header { 
-  padding: 80px;
+  padding: 100px;
   text-align: center;
   background: #87CEDA;
   color: white; 
@@ -92,7 +92,7 @@ float: right;
 
 /*footer*/
 .footer{
-
+padding: 20 px;
 text-align: center; 
 background: #87CEDA;
 }
