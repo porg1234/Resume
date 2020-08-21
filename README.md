@@ -135,7 +135,6 @@ background: #87CEDA;
             <div class="photo" style="height:200px;">Image</div> 
             <p> image description </p>
       </div>
-      </div>
       <div class="main">
             <h2> Education<h2>
                   <h3> UMASS</h3>
@@ -151,4 +150,4 @@ background: #87CEDA;
 <div class="footer">
  <h2>Thanks for visiting! </h2>
 </div>
-
+</div>
