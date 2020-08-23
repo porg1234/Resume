@@ -95,7 +95,10 @@ float: right;
 
 /*footer*/
 .footer{
-padding: 60 px;
+position: absolute;
+width: 100%
+bottom:0px;
+height: 60px;
 text-align: center; 
 background: #87CEDA;
 }
