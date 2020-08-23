@@ -21,6 +21,7 @@ body {
   text-align: center;
   background: #87CEDA;
   color: white; 
+  overflow: hidden;
   }
 
   /* font size for header */
@@ -150,4 +151,4 @@ background: #87CEDA;
 <div class="footer">
  <h2>Thanks for visiting! </h2>
 </div>
-</div>
+
