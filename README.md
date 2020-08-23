@@ -1,4 +1,5 @@
 
+
 <html lang="en">
 <head>
 <title> Hello world </title>
@@ -54,4 +55,79 @@ float: right;
    background-color: #87CEDA;
    color: black;
 }
+
+
+
+.comment{
+  background-color: #ddd;
+  padding: 20px;
+}
+
+/*Main column*/ 
+.main {
+   background-color: white;
+   padding: 20px;
+}
+
+/*image*/
+.photo {
+   background-color: #aaa;
+   width: 100%;
+   padding: 20px;
+  
+}
+
+/*footer*/
+.footer{
+padding: 20px;
+text-align: center; 
+background: #87CEDA;
+}
+
+  </style>
+  </head>
+<body>
+
+  
+<div class="header">
+  <h1> Simple professional </h1>
+  <p> Into the unknown</p>
+</div>
+
+
+<div class="navbar">
+  <a href="#">Resume</a>
+  <a href="#">Education</a>
+  <a href="#">Projects</a>
+  <a href="#" class="right">LinkedIn</a>
+  </div>
+  
+
+
+    <div class="main">
+    <h2> About Me<h2>
+    <br>
+    <p> Stuff about me and why I can help people</p>
+     <div class="photo" style="height:200px;">Image</div>
+    <h5> What is in the photo</h5>
+    <h3> another side of me</h3>
+    <p>jkebkjfbejksb </p>
+    <div class="photo" style="height:200px;">Image</div>
+     
+ </div>
+
+ <br>
+  <div class="comment">
+  <h3>deserunt mollit anim id est laborum </h3>
+
+</div>
+  
+
+
+<div class="footer">
+ <h2>Thanks for visiting! </h2>
+  </div>
+ 
+</body>
+</html>
 
