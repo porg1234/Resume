@@ -148,8 +148,8 @@ background: #87CEDA;
    <div class="side">
             <h2> About Me</h2>
             <div class="polaroid"> 
-                  <img src="img_5terre.jpg" alt="5 Terre" style="width:100%">
-                  <div class="container">
+                  <img  alt="5 Terre" style="width:100%">
+                  <div class="border">
               <p>Ara</p>
             </div>
            </div>                  
