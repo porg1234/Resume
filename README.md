@@ -151,7 +151,6 @@ background: #87CEDA;
             </div>
            </div>                  
       </div>
-     </div>
       <div class="main">
             <h2> Education<h2>
                   <h3> UMASS</h3>
@@ -162,6 +161,7 @@ background: #87CEDA;
     <h3> another side of me</h3>
     <p>jkebkjfbejksb </p>
           <p> ... </p>
+                  </div>
                   
 
 <div class="footer">
