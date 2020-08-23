@@ -157,12 +157,11 @@ background: #87CEDA;
                   <h3> UMASS</h3>
                  <div class="photo" style="height:200px;">Image</div>
        <br>
-    <p> The joys of college</p>         
-  <div class="photo" style="height:200px;">Image</div>    
-    <h3> another side of me</h3>
-    <p>jkebkjfbejksb </p>
-          <p> ... </p>
+    <p> The joys of college</p> 
                   </div>
+                  </div>
+  <div class="photo" style="height:200px;">Image</div>    
+
                   
 
 <div class="footer">
