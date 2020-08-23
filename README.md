@@ -65,6 +65,7 @@ float: right;
  display: flex;
  -ms-flex-wrap: wrap;
  flex-wrap: wrap;
+ overflow:hidden;
 } 
 
 
