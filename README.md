@@ -73,7 +73,6 @@ float: right;
  flex: 30%;
  background-color: #f1f1f1;
  padding: 20px;
- overflow:hidden;
   }
 
 /*Main column*/ 
@@ -90,8 +89,20 @@ float: right;
    background-color: #aaa;
    width: 100%;
    padding: 20px;
-  
 }
+
+.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+.border {
+  text-align: center;
+  padding: 10px 20px;
+}
+
 
 /*footer*/
 .footer{
@@ -136,8 +147,12 @@ background: #87CEDA;
 <div class="row">
    <div class="side">
             <h2> About Me</h2>
-            <div class="photo" style="height:200px;">Image</div> 
-            <p> image description </p>
+            <div class="polaroid"> 
+                  <img src="img_5terre.jpg" alt="5 Terre" style="width:100%">
+                  <div class="container">
+              <p>Ara</p>
+            </div>
+           </div>                  
       </div>
       <div class="main">
             <h2> Education<h2>
