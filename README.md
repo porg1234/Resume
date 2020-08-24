@@ -140,17 +140,21 @@ body {
 <div class="side">
     <h2>About Me</h2>
     <h5>Photo of me:</h5>
-    <div class="photo" style="height:200px;">Image</div>
+    <div class="polaroid">
+    <img alt="5 Terre" style="width:100%">
+     <div class="border">
+       <p>Aradia Maser</p>
+    </div>
+    </div>    
     <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     <h3>More Text</h3>
     <p>Lorem ipsum dolor sit ame.</p>
     <div class="photo" style="height:60px;">Image</div><br>
-    <div class="photo" style="height:60px;">Image</div><br>
-    <div class="photo" style="height:60px;">Image</div>
+
   </div>
   
   <div class="main">
-    <h2>TITLE HEADING</h2>
+    <h2>Education</h2>
     <h5>Title description, Dec 7, 2017</h5>
     <div class="photo" style="height:200px;">Image</div>
     <p>Some text..</p>
