@@ -1,13 +1,12 @@
 
 <html lang="en">
 <head>
-<title>Page Title</title>
+<title>Resume</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
-  margin: 0;
-  padding 0;
+  box-sizing: border-box;
 }
 
 /* Style the body */
