@@ -168,7 +168,8 @@ body {
 
      <div class="photo" style="height:200px;">Image</div>
      
-     <h2><a name="Career">Career Journey</a></h2>  
+     <a name="Career"> <br> </a> 
+     <h2>Career Journey</h2>  
      <br>
      <h4> DATA ENGINEER | Mayhew Steel Products, Incorporated</h4>
      <h5> Turners Falls, MA | June 2018 - February 2019</h5>
@@ -192,8 +193,8 @@ body {
 
     <div class="photo" style="height:200px;">Image</div>
    
-  <a name="Volunteer">   
-     <h2>Volunteer</h2> </a>
+  <a name="Volunteer"> <br> </a>  
+     <h2>Volunteer</h2>
      <h4>Cultural Exchange Program (Clucom)</h4>
      <h5>Ilsandong-gu, Republic of Korea | March 2019 - March 2020</h5>
      <p>Taking action at a language exchange, as an American expatriate working on a cross-cultural team with South Koreans, I facilitated diverse and inclusive decision groups and recommended modern learning materials for adults learning English. </p>
