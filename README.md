@@ -141,8 +141,8 @@ body {
 
 <div class="row">
 <div class="side">
-  <br>
-  <a name="About"> </a>   
+ 
+  <a name="About"><br> </a>   
      <h2>About Me</h2>
     <h5>Self-Driven and People-Oriented </h5>
     <div class="polaroid">
@@ -159,8 +159,8 @@ body {
   </div>
   
   <div class="main">
-  <br>
-    <a name="Education">  </a>
+
+    <a name="Education"><br>  </a>
     <h2>Education </h2>
     <h4>Bachelor Degree | Operation Information Management</h4>
     <h4>Minor | Information Technology</h4>   
@@ -194,8 +194,8 @@ body {
     <br>
 
     <div class="photo" style="height:200px;">Image</div>
-   <br>
-  <a name="Volunteer"></a>  
+   
+  <a name="Volunteer"><br></a>  
      <h2>Volunteer</h2>
      <h4>Cultural Exchange Program (Clucom)</h4>
      <h5>Ilsandong-gu, Republic of Korea | March 2019 - March 2020</h5>
