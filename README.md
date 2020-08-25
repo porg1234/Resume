@@ -141,7 +141,8 @@ body {
 
 <div class="row">
 <div class="side">
-  <h2><a name="About">About Me </a></h2>
+  <a name="About"> About Me </a>
+    <h2>About Me</h2>
     <h5>Self-Driven and People-Oriented </h5>
     <div class="polaroid">
     <img alt="5 Terre" style="width:100%">
