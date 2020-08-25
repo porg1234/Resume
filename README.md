@@ -184,9 +184,6 @@ body {
      <b> PowerPoint, Word, Public Speaking, Team Work </b>
      <p>Spearheaded new initiative with team to increase company revenue by 5% through optional hobby-inspired English classes (STEM, cooking, art, and gym) for existing students to invite their friends. Using PowerPoint and Word to design team-building games and interactive lesson plan materials to make an immersive learning experience within tight schedules and daily deadlines. Keeping composer and comforted students as COVID-19 swept the country.</p>
 
-
-    <p>Some text..</p>
-    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     <br>
 
     <div class="photo" style="height:200px;">Image</div>
