@@ -159,8 +159,8 @@ body {
     <h5> May 2018 | University of Massachusetts Amherst</h5>
     <h4>Bachelor Degree in Operation Information Management</h4>
     <h4>Minor in Information Technology</h4>   
-     <p>Operation Information Management provided in-depth look at Six Sigma, SAP and  Lean strategy. </p>
-     <p>Information Technology provided exposure and experience with software to find results and to visualize data displays in an easy-to-read format using Spotfire Tableau,  Python, Java and SQL. </p>
+     <p>     Operation Information Management provided in-depth look at Six Sigma, SAP and  Lean strategy. </p>
+     <p>     Information Technology provided exposure and experience with software to find results and to visualize data displays in an easy-to-read format using Spotfire Tableau,  Python, Java and SQL. </p>
      <div class="photo" style="height:200px;">Image</div>
     <p>Some text..</p>
     <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
