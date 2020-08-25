@@ -143,7 +143,7 @@ body {
 <div class="side">
  
   <a name="About"><br> </a>   
-
+     <br>
      <h2>About Me</h2>
     <h5>Self-Driven and People-Oriented </h5>
     <div class="polaroid">
@@ -162,7 +162,7 @@ body {
   <div class="main">
 
     <a name="Education"><br>  </a>
-    <br>
+    <br><br>
     <h2>Education </h2>
     <h4>Bachelor Degree | Operation Information Management</h4>
     <h4>Minor | Information Technology</h4>   
