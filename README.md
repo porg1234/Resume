@@ -27,7 +27,7 @@ body {
 
 /* Increase the font size of the heading */
 .header h1 {
-  font-size: 40px;
+  font-size: 80px;
 }
 
 /* Style the top navigation bar */
@@ -104,7 +104,7 @@ body {
 
 /* Footer */
 .footer {
-  padding: 20px;
+  padding: 30px;
   text-align: center;
   background: #87CEDA;
 }
