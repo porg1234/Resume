@@ -107,7 +107,8 @@ body {
   padding: 30px;
   text-align: center;
   background: #87CEDA;
-}
+  color: white;
+  }
 
 @media screen and (max-width: 700px) {
   .row {   
