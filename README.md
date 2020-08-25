@@ -141,7 +141,8 @@ body {
 
 <div class="row">
 <div class="side">
-  <a name="About"> <br> </a>   
+  <br>
+  <a name="About"> </a>   
      <h2>About Me</h2>
     <h5>Self-Driven and People-Oriented </h5>
     <div class="polaroid">
@@ -158,7 +159,8 @@ body {
   </div>
   
   <div class="main">
-    <a name="Education"> <br> </a>
+  <br>
+    <a name="Education">  </a>
     <h2>Education </h2>
     <h4>Bachelor Degree | Operation Information Management</h4>
     <h4>Minor | Information Technology</h4>   
@@ -167,8 +169,8 @@ body {
      <p>Information Technology provided exposure and experience with software to find results and to visualize data displays in an easy-to-read format using Spotfire Tableau,  Python, Java and SQL. </p>
 
      <div class="photo" style="height:200px;">Image</div>
-     
-     <a name="Career"> <br> </a> 
+     <br>
+     <a name="Career"></a> 
      <h2>Career Journey</h2>  
      <br>
      <h4> DATA ENGINEER | Mayhew Steel Products, Incorporated</h4>
@@ -192,8 +194,8 @@ body {
     <br>
 
     <div class="photo" style="height:200px;">Image</div>
-   
-  <a name="Volunteer"> <br> </a>  
+   <br>
+  <a name="Volunteer"></a>  
      <h2>Volunteer</h2>
      <h4>Cultural Exchange Program (Clucom)</h4>
      <h5>Ilsandong-gu, Republic of Korea | March 2019 - March 2020</h5>
