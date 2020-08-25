@@ -56,7 +56,7 @@ body {
 /* Change color on hover */
 .navbar a:hover {
   background-color: #87CEDA;
-  color: black;
+  color: white;
 }
 /* Column container */
 .row {  
