@@ -143,7 +143,7 @@ body {
 <div class="side">
  
   <a name="About"><br> </a>   
-  <br>
+
      <h2>About Me</h2>
     <h5>Self-Driven and People-Oriented </h5>
     <div class="polaroid">
