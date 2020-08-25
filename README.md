@@ -161,9 +161,9 @@ body {
   </div>
   
   <div class="main">
-
+<br>
     <a name="Education"><br>  </a>
-    <br><br>
+    <br>
     <h2>Education </h2>
     <h4>Bachelor Degree | Operation Information Management</h4>
     <h4>Minor | Information Technology</h4>   
