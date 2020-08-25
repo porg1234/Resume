@@ -127,7 +127,7 @@ body {
 
 <div class="header">
   <h1>Aradia Maser</h1>
-  <p>Self-Driven and People-Oriented Data Engineer</p>
+  <p>Data Engineer</p>
 </div>
 
 <div class="navbar">
@@ -140,7 +140,7 @@ body {
 <div class="row">
 <div class="side">
     <h2>About Me</h2>
-    <h5>Photo of me:</h5>
+    <h5>Self-Driven and People-Oriented </h5>
     <div class="polaroid">
     <img alt="5 Terre" style="width:100%">
      <div class="border">
@@ -156,10 +156,11 @@ body {
   
   <div class="main">
     <h2>Education</h2>
-    <h5> May 2018 | University of Massachusetts Amherst</h5>
-    <h4>Bachelor Degree in Operation Information Management</h4>
-    <h4>Minor in Information Technology</h4>   
-     <p>Operation Information Management provided in-depth look at Six Sigma, SAP and  Lean strategy. </p>
+
+    <h4>Bachelor Degree | Operation Information Management</h4>
+    <h4>Minor | Information Technology</h4>   
+       <h5> May 2018 | University of Massachusetts Amherst</h5>  
+      <p>Operation Information Management provided in-depth look at Six Sigma, SAP and  Lean strategy. </p>
      <p>Information Technology provided exposure and experience with software to find results and to visualize data displays in an easy-to-read format using Spotfire Tableau,  Python, Java and SQL. </p>
 
      <div class="photo" style="height:200px;">Image</div>
