@@ -18,7 +18,7 @@ body {
 
 /* Header/logo Title */
 .header {
-  padding: 100px;
+  padding: 140px;
   text-align: center;
   background: #87CEDA;
   color: white;
@@ -27,7 +27,7 @@ body {
 
 /* Increase the font size of the heading */
 .header h1 {
-  font-size: 80px;
+  font-size: 40px;
 }
 
 /* Style the top navigation bar */
