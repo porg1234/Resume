@@ -141,7 +141,7 @@ body {
 
 <div class="row">
 <div class="side">
-  <h2><a name="About">About Me</h2></a>
+  <h2><a name="About">About Me </a></h2>
     <h5>Self-Driven and People-Oriented </h5>
     <div class="polaroid">
     <img alt="5 Terre" style="width:100%">
@@ -157,7 +157,7 @@ body {
   </div>
   
   <div class="main">
-    <h2><a name="Education">Education</h2></a>
+    <h2><a name="Education">Education </a></h2>
     <h4>Bachelor Degree | Operation Information Management</h4>
     <h4>Minor | Information Technology</h4>   
        <h5> May 2018 | University of Massachusetts Amherst</h5>  
@@ -166,7 +166,7 @@ body {
 
      <div class="photo" style="height:200px;">Image</div>
      
-     <h2><a name="Career">Career Journey</h2>  </a>  
+     <h2><a name="Career">Career Journey</a></h2>  
      <br>
      <h4> DATA ENGINEER | Mayhew Steel Products, Incorporated</h4>
      <h5> Turners Falls, MA | June 2018 - February 2019</h5>
@@ -191,7 +191,7 @@ body {
     <div class="photo" style="height:200px;">Image</div>
    
 
-     <h2><a name="Volunteer">Volunteer</h2> </a> 
+     <h2><a name="Volunteer">Volunteer</a></h2> 
      <h4>Cultural Exchange Program (Clucom)</h4>
      <h5>Ilsandong-gu, Republic of Korea | March 2019 - March 2020</h5>
      <p>Taking action at a language exchange, as an American expatriate working on a cross-cultural team with South Koreans, I facilitated diverse and inclusive decision groups and recommended modern learning materials for adults learning English. </p>
