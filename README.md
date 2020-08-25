@@ -131,8 +131,8 @@ body {
 </div>
 
 <div class="navbar">
-   <a name="About Me">About</a>  
-   <a name="Main">Education</a>
+   <a href="#side">About</a>  
+   <a href="#">Education</a>
    <a href="#">Career</a>
   <a href="#">Volunteer</a>
   
