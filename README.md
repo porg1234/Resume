@@ -140,7 +140,7 @@ body {
    <a href="#Career">Career</a>
   <a href="#Volunteer">Volunteer</a>
   
-  <a href="www.linkedin.com/in/aradia-maser" class="right">Linkedin</a>
+  <a href="#" class="right">Linkedin</a>
 </div>
 
 <div class="row">
