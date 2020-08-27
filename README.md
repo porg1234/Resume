@@ -75,6 +75,9 @@ body {
   padding: 20px;
 }
 
+.header h2 {
+  text-align: center;
+}
 
 /* Main column */
 .main {   
