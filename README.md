@@ -99,7 +99,6 @@ body {
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
-  background-image: url(../img/ps_langcon.jpg);
 }
 
 .border {
@@ -201,7 +200,9 @@ body {
 
     <br>
 
-    <div class="photo" style="height:200px;">Teaching in Korea</div>
+    <div class="photo">
+    <img scr="../img/sp_langcon.jpg alt="public speaking in Korea" style="width:100%"> 
+    </div>
    
   <a name="Volunteer"><br></a> 
   <br>
