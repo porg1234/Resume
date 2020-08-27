@@ -201,7 +201,7 @@ body {
     <br>
 
     <div class="photo">
-    <img scr="sp_langcon.jpg alt="public speaking in Korea" style="width:100%"> 
+    <img scr="sp_langcon.jpg" alt="public speaking in Korea" style="width:100%"> 
     </div>
    
   <a name="Volunteer"><br></a> 
