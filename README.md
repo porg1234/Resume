@@ -99,8 +99,7 @@ body {
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
-  background-image: url(img/about_me.jpg)
-  background-size: 100%
+
 }
 
 .border {
@@ -154,7 +153,7 @@ body {
      <h2>About Me</h2>
     <h5>Self-Driven and People-Oriented </h5>
     <div class="polaroid">
-    <img alt="5 Terre" style="width:100%">
+    <img src="img/about_me.jpg"  alt="Aradia with Umass Cherry blossum" style="width:100%">
      <div class="border">
        <p>Aradia Maser</p>
     </div>
