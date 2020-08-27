@@ -153,7 +153,7 @@ body {
      <h2>About Me</h2>
     <h5>Self-Driven and People-Oriented </h5>
     <div class="polaroid">
-    <img src="img/about_me.jpg"  alt="Aradia with Umass Cherry blossum" style="width:100%">
+    <img src="../img/about_me.jpg"  alt="Aradia with Umass Cherry blossum" style="width:100%">
      <div class="border">
        <p>Aradia Maser</p>
     </div>
