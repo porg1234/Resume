@@ -74,9 +74,7 @@ body {
   background-color: #f1f1f1;
   padding: 20px;
 }
-.header h2 {
-  text-align: center;
-}
+
 
 /* Main column */
 .main {   
