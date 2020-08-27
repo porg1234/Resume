@@ -75,7 +75,7 @@ body {
   padding: 20px;
 }
 
-.header h2 {
+.side h2 {
   text-align: center;
 }
 
