@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> Contact Me </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+*{
+box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.header {
+  text-align: center;
+  background: #87CEDA;
+  color: white;
+   padding: 40px;  
+  }
+
+/* Increase the font size of the heading */
+.header h1 {
+  font-size: 20px;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+/* Right-aligned link */
+.navbar a.right {
+  float: right;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #87CEDA;
+  color: white;
+}
+
+.main{
+ background-color: #f1f1f1;
+ padding: 20px;
+  color: black 
+  text-transform: uppercase; 
+  transition: all 4s ease-in-out; 
+}
+
+.main h1{
+  font-size: 28px;
+  line-height: 10px;
+}
+
+.main h2{
+   font-size: 16px;
+}
+
+form{
+  margin-top:50px;
+  transition: all 4s ease-in-out;
+}
+
+.form-control{
+   width: 600px
+   background: transparent;
+   border: none;
+   outline: none;
+   border-bottom: 1px solid gray;
+   color: #eee;
+   font-size: 18px;
+   margin-bottom: 16px;
+}
+
+input{
+   height: 45px;
+}
+
+form .submit {
+   background:#ff5722;
+   border-color: transparent;
+   color:#eee;
+   font-size: 20px;
+   font-weight: bold;
+   letter-spacing: 2px;
+   height: 50px;
+   margin-top: 20px;
+}
+
+form .submit:hover {
+    background-color: #f44336;
+    cursor: pointer;
+
+}
+
+.footer {
+  padding: 30px;
+  text-align: center;
+  background: #87CEDA;
+  color: white;
+  }
+  @media screen and (max-width: 400px) {
+  .navbar a {
+    float: none;
+    width: 100%;
+  }
+}
+  
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Aradia Maser</h1>
+  <p>Data Engineer</p>
+</div>
+
+<div class="navbar">
+   <a href="#About">About</a>  
+   <a href="#Education">Education</a>
+   <a href="#Career">Career</a>
+  <a href="#Volunteer">Volunteer</a>
+  
+  <a href="https://www.linkedin.com/in/aradia-maser/" class="right">Linkedin</a>
+</div>
+
+<div class="main">
+    <form id="main" method="post" action="">
+       <input name="name" type"text" class="form-control" placeholder="Your Name" required>
+       <br>
+      <input name="email" type"email" class="form-control" placeholder="your.name@email.org" required>
+       <br>
+       <textarea name="message" class="form-control" placeholder="Hey, great work" rows="5" required>
+       </textarea> 
+       <br>
+       <input> type="Submit" class="form-control submit" value="SEND MESSAGE">
+    </form>
+    
+ </div>
+ 
+ <div class="footer">
+  <h2> Thank You For Visiting</h2>
+</div>
+
+</body>
+</html>
