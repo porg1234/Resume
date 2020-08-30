@@ -149,6 +149,8 @@ form .submit:hover {
        <br>
       <input name="email" type"email" class="form-control" placeholder="your.name@email.org" required>
        <br>
+      <input name="subject" type"text" class="form-control" placeholder="Subject" required>
+       <br>      
        <textarea name="message" class="form-control" placeholder="Hello world..." rows="5" required>
        </textarea> 
        <br>
@@ -162,4 +164,24 @@ form .submit:hover {
 </div>
 
 </body>
+  
+<script>
+  <?php
+  if (isset($_POST['sumbit'])) {
+   $name = $_POST['name']; 
+   $mailFrom = $_POST['email'];     
+   $subject = $_POST['subject']; 
+   $message = $_POST['message'];     
+  
+    $mailTo = "aradia.maser@gmail.com";
+    $headers = "From: ".$mailFrom;
+    $txt = "You have received an e-mail from ".$name.".\n\n".$message;
+    
+  mail($mailTo , $headers , $subject , $txt );
+    
+    header("Location: index.php?mailsend");
+    
+  }
+  </script>
+  
 </html>
