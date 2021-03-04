@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Resume</title>
+<title>Aradia Maser</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" type="image/png" href="resume-website.png">
-  
+
 <style>
 * {
   box-sizing: border-box;
 }
-  
-  
+
+
   /* Style the body */
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -25,7 +25,7 @@ body {
   text-align: center;
   background: #87CEDA;
   color: white;
-   padding: 80px;  
+   padding: 80px;
   }
 
 /* Increase the font size of the heading */
@@ -62,7 +62,7 @@ body {
   color: white;
 }
 /* Column container */
-.row {  
+.row {
   display: -ms-flexbox; /* IE10 */
   display: flex;
   -ms-flex-wrap: wrap; /* IE10 */
@@ -73,7 +73,7 @@ body {
 /* Sidebar/left column */
 .side {
   -ms-flex: 30%; /* IE10 */
-  flex: 30%;  
+  flex: 30%;
   background-color: #f1f1f1;
   padding: 20px;
    text-align: center;}
@@ -81,15 +81,15 @@ body {
 
 
 /* Main column */
-.main {   
+.main {
   -ms-flex: 70%; /* IE10 */
-  flex: 70%; 
+  flex: 70%;
   background-color: white;
   padding: 20px;
 }
-  
+
 .main h5{
-    text-indent: 20px; 
+    text-indent: 20px;
   }
 
 /* Fake image, just for this example */
@@ -100,7 +100,10 @@ body {
   }
 
 .polaroid {
-  width: 80%;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+  width: 50%;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
@@ -121,7 +124,7 @@ body {
   }
 
 @media screen and (max-width: 700px) {
-  .row {   
+  .row {
     flex-direction: column;
   }
 }
@@ -145,91 +148,100 @@ body {
    <a href="#Education">Education</a>
    <a href="#Career">Career</a>
   <a href="#Volunteer">Volunteer</a>
- 
-  <!--<a href="contact.html" class="right">Contact</a> --> 
+
+  <!--<a href="contact.html" class="right">Contact</a> -->
   <a href="https://www.linkedin.com/in/aradia-maser/" class="right">Linkedin</a>
 </div>
 
 <div class="row">
 <div class="side">
- 
-  <a name="About"><br> </a>   
+
+  <a name="About"><br> </a>
      <br>
      <h2>About Me</h2>
     <div class="polaroid">
-    <img src = "resume.jpg"  alt = "Aradia in converstation" style="width:100%">
-     <div class="border">
-       <p>Aradia Maser</p>
+    <img src = "resume.jpg"  alt = "Aradia in converstation" style="width:100%" class="center">
+
     </div>
-    </div>    
     <p>Self-Driven and People-Oriented</p>
 
-   
+
 
   </div>
-  
+
   <div class="main">
 <br>
     <a name="Education"><br>  </a>
     <br>
     <h2>Education </h2>
     <h4>Bachelor Degree | Operation Information Management</h4>
-    <h4>Minor | Information Technology</h4>   
-       <h5> May 2018 | University of Massachusetts Amherst</h5>  
-      <blockquote>Operation Information Management provided in-depth look at Six Sigma, SAP and  Lean strategy. </blockquote>
-     <blockquote>Information Technology provided exposure and experience with software to find results and to visualize data displays in an easy-to-read format using Spotfire Tableau,  Python, Java and SQL. </blockquote>
-
-    <div class="photo">   
+    <h4>Minor | Information Technology</h4>
+       <h5> May 2018 | University of Massachusetts Amherst</h5>
+      <ul>
+     <blockquote><li>Operation Information Management provided in-depth look at Six Sigma, SAP and  Lean strategy. </li></blockquote>
+     <blockquote><li>Information Technology provided exposure and experience with software to find results and to visualize data displays in an easy-to-read format using Spotfire Tableau,  Python, Java and SQL. </li></blockquote>
+</ul>
+    <div class="photo">
       <img src="umass.jpg" alt="Isenberg School of Business at Umass" style="height:200px;" >
     </div>
-      
-     <a name="Career"><br></a> 
-     <br>
-     <h2>Career Journey</h2>  
-     <br>
-     <h4> DATA ENGINEER | Mayhew Steel Products, Incorporated</h4>
-     <h5> Turners Falls, MA | June 2018 - February 2019</h5>
-     <b>SQL, SQL Server Reporting Services (SSRS), Macola (ERP & MRP), Excel, Visual Basic for Applications (VBA), Crystal, ShopVue </b>
-    <blockquote> Communicating with management to convert documents (physical copies and Windows 7 servers) to SSRS reports, improving formulas and provide back up to cloud database. Solving inconstancies in multiple departments by using Vertical Lookup (VLOOKUP), manual verification, and SQL. Reducing product release time by using SQL clusters and VBA to mange packaging components.</blockquote>     
 
+     <a name="Career"><br></a>
+     <br>
+     <h2>Career Journey</h2>
+     <br>
+     <h3> DATA ENGINEER | Mayhew Steel Products, Incorporated</h3>
+     <h4> Turners Falls, MA | June 2018 - February 2019</h4>
+     <h5>SQL, SQL Server Reporting Services (SSRS), Macola (ERP & MRP), Excel, Visual Basic for Applications (VBA), Crystal, ShopVue </h5>
+    <ul>
+      <blockquote><li> Communicating with management to convert documents (physical copies and Windows 7 servers) to SSRS reports, improving formulas and provide back up to cloud database. </blockquote></li>
+        <blockquote><li>Solving inconstancies in multiple departments by using Vertical Lookup (VLOOKUP), manual verification, and SQL. </blockquote></li>
+            <blockquote><li>Reducing product release time by using SQL clusters and VBA to mange packaging components.</blockquote></li>
+    </ul>
      <br>
      <h4> ASSISTANT MANAGER | ANNIE’S BOOK STOP </h4>
      <h5> Worcester, MA | May 2015 - December 2016</h5>
      <b>Excel, Troubleshooting, Training </b>
-     <blockquote> Created an organized database of collectable books by using Excel while managing frontline customer interaction. Troubleshooting internet, Point of Sale (POS) terminal and land lines along with setting up IT hardware for viewing events. Increased summer sales to record breaking profits by implementing and training coworkers in lean strategy. Independently led team when manager was away; trained new hires in database management (1000+ books).</blockquote>
-
+      <ul>
+     <blockquote><li>Created an organized database of collectable books by using Excel while managing frontline customer interaction. </blockquote></li>
+     <blockquote><li>Troubleshooting internet, Point of Sale (POS) terminal and land lines along with setting up IT hardware for viewing events. </blockquote></li>
+     <blockquote><li>Increased summer sales to record breaking profits by implementing and training coworkers in lean strategy. </blockquote></li>
+     <blockquote><li>Independently led team when manager was away; trained new hires in database management (1000+ books).</blockquote></li>
+</ul>
 
      <br>
      <h4> English Teacher| Avalon: Langcon of the Republic of Korea</h4>
      <h5> Ilsandong-gu, Republic of Korea | March 2019 - March 2020</h5>
-    
+
     <div class="photo">
       <img src="ps_langcon.jpg" alt="public speaking in Korea" style="height:200px;" >
-    </div>     
-    
-    <b> PowerPoint, Word, Public Speaking, Team Work </b>
-     <blockquote>Spearheaded new initiative with team to increase company revenue by 5% through optional hobby-inspired English classes (STEM, cooking, art, and gym) for existing students to invite their friends. Using PowerPoint and Word to design team-building games and interactive lesson plan materials to make an immersive learning experience within tight schedules and daily deadlines. Keeping composer and comforted students as COVID-19 swept the country.</blockquote>
+    </div>
 
+    <b> PowerPoint, Word, Public Speaking, Team Work </b>
+      <ul>
+     <blockquote><li>Spearheaded new initiative with team to increase company revenue by 5% through optional hobby-inspired English classes (STEM, cooking, art, and gym) for existing students to invite their friends. </blockquote></li>
+     <blockquote><li>Using PowerPoint and Word to design team-building games and interactive lesson plan materials to make an immersive learning experience within tight schedules and daily deadlines. </blockquote></li>
+      <blockquote><li>Keeping composer and comforted students as COVID-19 swept the country.</blockquote></li>
+      </ul>
     <br>
-   
-  <a name="Volunteer"><br></a> 
+
+  <a name="Volunteer"><br></a>
   <br>
      <h2>Volunteer</h2>
      <h4>Cultural Exchange Program (Clucom)</h4>
      <h5>Ilsandong-gu, Republic of Korea | March 2019 - March 2020</h5>
-     <blockquote>Taking action at a language exchange, as an American expatriate working on a cross-cultural team with South Koreans, I facilitated diverse and inclusive decision groups and recommended modern learning materials for adults learning English. </blockquote>   
- 
+     <blockquote>Taking action at a language exchange, as an American expatriate working on a cross-cultural team with South Koreans, I facilitated diverse and inclusive decision groups and recommended modern learning materials for adults learning English. </blockquote>
+
     <div class="photo">
     <img src="Culcom_chi.jpg" alt="Chi, Culcom's mascot" style="height:200px;" >
-         <h4>Chi: Culcom's Mascot  </h4>     
+         <h4>Chi: Culcom's Mascot  </h4>
          <p> providing motivation to students </p>
-    </div>       
-    
+    </div>
+
      <br>
      <h4>International Programs Office (IPO) Buddy</h4>
      <h5>University of Massachusetts Amherst | January 2016 - May 2017</h5>
      <blockquote>Providing company and peer guidance for first year international students. During outings, managing cultural conflicts that transpire with locals to keep a positive atmosphere.</blockquote>
-       
+
     <br>
      <h4> Phi Theta Kappa (PTK): Honor Society </h4>
      <h5> Worcester, MA | January 2013 - December 2015</h5>
@@ -241,6 +253,8 @@ body {
 <div class="footer">
   <h2> Thank You For Visiting</h2>
 </div>
+
+/* Work sited w3schools.com, 2021  */
 
 </body>
 </html>
